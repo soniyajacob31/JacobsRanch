@@ -639,7 +639,7 @@ nav .nav-items a:hover {
 
 /* Contact Info Section */
 .contact-info h1 {
-    margin-top: 0rem;
+    margin-top: 6rem;
     margin-bottom: 1rem;
     font-size: 3rem;
     font-family:'Playfair Display', serif;
@@ -657,6 +657,7 @@ nav .nav-items a:hover {
 
 /* Right Side: Contact Form */
 .contact-form {
+    margin-top: 5rem;
     width: 55%;
     background: #ffffff;
     padding: 2rem;
